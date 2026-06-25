@@ -45,6 +45,13 @@ The central problem is **The Inclusivity Gap**: commercial wellness infrastructu
 *   **Operational Constraints:** Bypasses direct, personalized user tracking data to comply with international data privacy paradigms (GDPR / FTC), utilizing instead high-volume normalized consumer behavior aggregates.
 *   **Core Deliverables:** (1) Formalized written analytical report; (2) Executive-level Strategic Slide Deck; (3) Interactive visual data interface hosted via Tableau Public.
 
+### 📊 Tableau Interactive Dashboard
+To explore the deep granularity and live metrics of the **4 Strategic Pillars**, the dynamic interactive dashboard is fully operational on Tableau Public.
+
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Interactive%20Dashboard-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]([INSERISCI_QUI_IL_LINK_DELLA_TUA_DASHBOARD_TABLEAU](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)
+
+> 💡 **Executive Navigation Note:** Inside the live interface, you can dynamically filter the post-pandemic convergence trends and isolate cross-border behavior heatmaps (ITA vs. USA) across the 2021–2026 timeline to mitigate data granularity loss.
+
 ---
 
 ## 3. Data Integrity, Ingestion, and Pipeline Architecture (Prepare & Process)
