@@ -170,8 +170,20 @@ Converted 1,464 long-format records into an empirical validation of the structur
 *   **B.3 Pipeline Execution Demonstration Log:** Verification logs confirming 1,464 records locked and cleared for cloud ingestion.
 
 ### Appendix C: Production Environment & Data Visualization Architecture
-*   **C.1 Unified Interface Architecture Map:** Links to the live interactive Tableau Public dashboard product. Details the *Cross-Border Maturity Matrix* (incorporating the Macro Horizon Pane and Seasonal Heatmap Calendars) and the *Strategic Pillar Share Chart*.
-*   **C.2 Executive Parameter Navigation & Filtering Protocols:** Explains right-margin dashboard filters—Selected Market (`geo_iso_code`), Thematic Pillar (`strategic_pillar_classification`), and Cross-Filtering Interactivity Actions—for zero-latency executive exploration.
+
+#### C.1 Unified Interface Architecture Map & Static Assets
+The operational layout is anchored on key visual checkpoints to capture structural convergence. While the static micro-views below isolate historical constraints, comprehensive strategic analysis requires dynamic cross-filtering via the live cloud infrastructure.
+
+* 🖼️ **[01_tableau_convergence_trend.png](assets/images/01_tableau_convergence_trend.png)** — Maps macro-level post-pandemic interest convergence across both target horizons.
+* 🖼️ **[02_tableau_heatmap_behavior.png](assets/images/02_tableau_heatmap_behavior.png)** — Visualizes high-density seasonal and engagement velocity metrics.
+* 🖼️ **[03_tableau_4_pillars_breakdown.png](assets/images/03_tableau_4_pillars_breakdown.png)** — Disaggregates empirical data into the 4 Core Strategic Pillars (Body, Mind, Spirit, Inclusion).
+
+🔗 **[Execute Interactive Data Visualization via Tableau Public](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)**
+
+> 💡 **Analytical Guidance Note:** To mitigate granularity loss, utilize the interactive control panel on the right margin of the live environment. The interface allows stakeholders to simultaneously isolate data by **Country** (`geo_iso_code`) and cross-filter by **Strategic Pillar** (`strategic_pillar_classification`) across the entire 2021–2026 timeline.
+
+#### C.2 Executive Parameter Navigation & Filtering Protocols
+Explains right-margin dashboard filters—Selected Market (`geo_iso_code`), Thematic Pillar (`strategic_pillar_classification`), and Cross-Filtering Interactivity Actions—for zero-latency executive exploration.
 
 ---
 *Developed by Ilenia Sanzò — Data Analyst & Institutional Operations Expert.*
