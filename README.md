@@ -45,7 +45,7 @@ The central problem is **The Inclusivity Gap**: commercial wellness infrastructu
 *   **Operational Constraints:** Bypasses direct, personalized user tracking data to comply with international data privacy paradigms (GDPR / FTC), utilizing instead high-volume normalized consumer behavior aggregates.
 * **Core Deliverables:**
     * 📑 **Comprehensive Analytical Report** — [Access Full PDF via Google Drive](https://drive.google.com/file/d/1BFpjFk5vlXpT1wuHbnlfmIV2cEo20vQQ/view?usp=drive_link)
-    * 🗂️ **Executive Strategic Slides** — [Access Presentation via Google Drive](https://drive.google.com/file/d/1ADVmLgMBar2bgl3JFE3vNfFtXKxWWH3Y/view?usp=drive_link)
+    * 🗂️ **Executive Strategic Slides** — [Access Presentation via Google Drive](https://drive.google.com/file/d/1ADVmLgMBar2bgl3JFE3vNfFtXKxWWH3Y/preview?usp=drive_link)
     * 📊 **Interactive Data Interface** — [Explore Live Dashboard via Tableau Public](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)
 
 ---
