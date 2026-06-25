@@ -1,7 +1,7 @@
 # Beyond Performance: The Inclusivity Gap (2021–2026)
 ### _A Comparative Data Analysis of Post-Pandemic Wellness Trends in Italy and the USA_
 
-**Lead Data Analyst:** Ilenia Sanzo'  
+**Lead Data Analyst:** Ilenia Sanzò  
 **Target Stakeholder:** Elysian Wellness Group  
 **Date of Issuance:** June 2026  
 
