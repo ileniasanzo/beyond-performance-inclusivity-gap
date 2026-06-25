@@ -48,7 +48,7 @@ The central problem is **The Inclusivity Gap**: commercial wellness infrastructu
 ### 📊 Tableau Interactive Dashboard
 To explore the deep granularity and live metrics of the **4 Strategic Pillars**, the dynamic interactive dashboard is fully operational on Tableau Public.
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Interactive%20Dashboard-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]([INSERISCI_QUI_IL_LINK_DELLA_TUA_DASHBOARD_TABLEAU](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Interactive%20Dashboard-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)
 
 > 💡 **Executive Navigation Note:** Inside the live interface, you can dynamically filter the post-pandemic convergence trends and isolate cross-border behavior heatmaps (ITA vs. USA) across the 2021–2026 timeline to mitigate data granularity loss.
 
