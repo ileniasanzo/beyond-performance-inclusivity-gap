@@ -43,10 +43,10 @@ The central problem is **The Inclusivity Gap**: commercial wellness infrastructu
 ### 2.4 Project Scope, Constraints, and Strategic Deliverables
 *   **Project Boundaries:** Analyzes programmatic search index data over a strict 5-year post-pandemic continuum (2021–2026), geographically constrained to comparative metrics between Italy and the United States.
 *   **Operational Constraints:** Bypasses direct, personalized user tracking data to comply with international data privacy paradigms (GDPR / FTC), utilizing instead high-volume normalized consumer behavior aggregates.
-*   **Core Deliverables:**
-    * 📑 **Analytical Report:** [GitHub Asset](assets/documents/Beyond_Performance_Analytical_Report.pdf) | [Drive Mirror](https://drive.google.com/file/d/1S03nd5btUUZZ7AD87tCLBkAZoldOloZF/view?usp=drive_link)
-    * 🗂️ **Executive Slides:** [GitHub Asset](assets/documents/Beyond_Performance_Executive_Slides.pdf) | [Drive Mirror](https://drive.google.com/file/d/1NsLXJeMaUoCOyC_2F0offw7Kq4xuHeQl/view?usp=drive_link)
-    * 📊 **Tableau Interface:** [Tableau Public](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master) | [Repository Index](asset/images/)
+* **Core Deliverables:**
+    * 📑 **Comprehensive Analytical Report** — [Access Full PDF via Google Drive](https://drive.google.com/file/d/1S03nd5btUUZZ7AD87tCLBkAZoldOloZF/view?usp=drive_link)
+    * 🗂️ **Executive Strategic Slides** — [Access Presentation via Google Drive](https://drive.google.com/file/d/1NsLXJeMaUoCOyC_2F0offw7Kq4xuHeQl/view?usp=drive_link)
+    * 📊 **Interactive Data Interface** — [Explore Live Dashboard via Tableau Public](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)
 
 ---
 
