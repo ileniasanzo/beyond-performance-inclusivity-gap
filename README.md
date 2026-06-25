@@ -45,12 +45,13 @@ The central problem is **The Inclusivity Gap**: commercial wellness infrastructu
 *   **Operational Constraints:** Bypasses direct, personalized user tracking data to comply with international data privacy paradigms (GDPR / FTC), utilizing instead high-volume normalized consumer behavior aggregates.
 *   **Core Deliverables:** (1) Formalized written analytical report; (2) Executive-level Strategic Slide Deck; (3) Interactive visual data interface hosted via Tableau Public.
 
-### 📊 Tableau Interactive Dashboard
-To explore the deep granularity and live metrics of the **4 Strategic Pillars**, the dynamic interactive dashboard is fully operational on Tableau Public.
+## 📊 Tableau Interactive Interface
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Interactive%20Dashboard-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)
+To bypass data granularity loss and fully explore the multi-dimensional dataset, the live dashboard environment is accessible online.
 
-> 💡 **Executive Navigation Note:** Inside the live interface, you can dynamically filter the post-pandemic convergence trends and isolate cross-border behavior heatmaps (ITA vs. USA) across the 2021–2026 timeline to mitigate data granularity loss.
+🔗 **[Execute Interactive Data Visualization via Tableau Public](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)**
+
+> 💡 **Executive Navigation Note:** Use the primary control elements on the right margin of the live interface to dynamically isolate data metrics. The system architecture supports simultaneous cross-filtering by **Country** (Italy vs. USA) and **Strategic Pillar** (Body, Mind, Spirit, Inclusion) across the entire 2021–2026 temporal continuum.
 
 ---
 
