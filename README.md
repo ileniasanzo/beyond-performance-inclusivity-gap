@@ -43,15 +43,10 @@ The central problem is **The Inclusivity Gap**: commercial wellness infrastructu
 ### 2.4 Project Scope, Constraints, and Strategic Deliverables
 *   **Project Boundaries:** Analyzes programmatic search index data over a strict 5-year post-pandemic continuum (2021–2026), geographically constrained to comparative metrics between Italy and the United States.
 *   **Operational Constraints:** Bypasses direct, personalized user tracking data to comply with international data privacy paradigms (GDPR / FTC), utilizing instead high-volume normalized consumer behavior aggregates.
-*   **Core Deliverables:** (1) Formalized written analytical report; (2) Executive-level Strategic Slide Deck; (3) Interactive visual data interface hosted via Tableau Public.
-
-## 📊 Tableau Interactive Interface
-
-To bypass data granularity loss and fully explore the multi-dimensional dataset, the live dashboard environment is accessible online.
-
-🔗 **[Execute Interactive Data Visualization via Tableau Public](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)**
-
-> 💡 **Executive Navigation Note:** Use the primary control elements on the right margin of the live interface to dynamically isolate data metrics. The system architecture supports simultaneous cross-filtering by **Country** (Italy vs. USA) and **Strategic Pillar** (Body, Mind, Spirit, Inclusion) across the entire 2021–2026 temporal continuum.
+*   **Core Deliverables:**
+    * 📑 **Analytical Report:** [GitHub Asset](assets/documents/Beyond_Performance_Analytical_Report.pdf) | [Drive Mirror](https://drive.google.com/file/d/1S03nd5btUUZZ7AD87tCLBkAZoldOloZF/view?usp=drive_link)
+    * 🗂️ **Executive Slides:** [GitHub Asset](assets/documents/Beyond_Performance_Executive_Slides.pdf) | [Drive Mirror](https://drive.google.com/file/d/1NsLXJeMaUoCOyC_2F0offw7Kq4xuHeQl/view?usp=drive_link)
+    * 📊 **Tableau Interface:** [Tableau Public](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master) | [Repository Index](asset/images/)
 
 ---
 
