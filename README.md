@@ -44,8 +44,8 @@ The central problem is **The Inclusivity Gap**: commercial wellness infrastructu
 *   **Project Boundaries:** Analyzes programmatic search index data over a strict 5-year post-pandemic continuum (2021–2026), geographically constrained to comparative metrics between Italy and the United States.
 *   **Operational Constraints:** Bypasses direct, personalized user tracking data to comply with international data privacy paradigms (GDPR / FTC), utilizing instead high-volume normalized consumer behavior aggregates.
 * **Core Deliverables:**
-    * 📑 **Comprehensive Analytical Report** — [Access Full PDF via Google Drive](https://drive.google.com/file/d/1S03nd5btUUZZ7AD87tCLBkAZoldOloZF/view?usp=drive_link)
-    * 🗂️ **Executive Strategic Slides** — [Access Presentation via Google Drive](https://drive.google.com/file/d/1NsLXJeMaUoCOyC_2F0offw7Kq4xuHeQl/view?usp=drive_link)
+    * 📑 **Comprehensive Analytical Report** — [Access Full PDF via Google Drive](https://drive.google.com/file/d/1BFpjFk5vlXpT1wuHbnlfmIV2cEo20vQQ/view?usp=drive_link)
+    * 🗂️ **Executive Strategic Slides** — [Access Presentation via Google Drive](https://drive.google.com/file/d/1ADVmLgMBar2bgl3JFE3vNfFtXKxWWH3Y/view?usp=drive_link)
     * 📊 **Interactive Data Interface** — [Explore Live Dashboard via Tableau Public](https://public.tableau.com/app/profile/ilenia.sanzo./viz/DataProduct-BeyondPerformanceTheInclusivityGapMarketValidation_/Dashboard_Search_Intent_Master)
 
 ---
